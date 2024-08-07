@@ -4,7 +4,7 @@ public class Main {
         int idade = 5, numero2 = 30, numero3 = 30;
         double soma_dos_numeros = (idade+numero3+numero2);
         if (idade > numero2){
-            System.out.println("O número é maior sim sua quenga");
+            System.out.println("O número é maior sim");
         }else{
             System.out.println("Não é maior nao querida bjs");
         }
